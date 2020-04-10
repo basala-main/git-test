@@ -1,0 +1,1 @@
+This basala first git project!
